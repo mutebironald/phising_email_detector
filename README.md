@@ -1,4 +1,4 @@
-# Goal: Detecting Phising Emails by Text Analytics
+# Goal: Detecting Phising Emails
 
 # DataSource: https://www.kaggle.com/datasets/subhajournal/phishingemails
 
