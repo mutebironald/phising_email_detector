@@ -1,6 +1,11 @@
-### Goal: Detecting Phising Emails
+## Goal: 
+Detecting Phising Emails
 
-### DataSource: https://www.kaggle.com/datasets/subhajournal/phishingemails
+### DataSource: 
+[kaggle](https://www.kaggle.com/datasets/subhajournal/phishingemails)
+
+### Hosted Notebook
+[Colab](https://colab.research.google.com/drive/16q_EAcEZSa_SHufZthK32s2zen77HlTN#scrollTo=3dY86ReikgRn)
 
 
 ## Data Description
