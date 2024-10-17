@@ -5,7 +5,7 @@ Detecting Phising Emails
 [kaggle](https://www.kaggle.com/datasets/subhajournal/phishingemails)
 
 ### Hosted Notebook
-[Colab](https://colab.research.google.com/drive/16q_EAcEZSa_SHufZthK32s2zen77HlTN#scrollTo=3dY86ReikgRn)
+[Colab](hhttps://colab.research.google.com/drive/1JPKBHAHOHaA6lFj63GRfcMeuNg5mlRT8?usp=sharing)
 
 
 ## Data Description
