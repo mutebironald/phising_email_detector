@@ -26,6 +26,6 @@ Phishing emails pose a significant threat worldwide by attempting to trick recip
    - Developed a Feedforward Neural Network to enhance detection capabilities.
 
 ## Collaborators
-- Ronald Mutebi
-- Katabazi Kim
-- Garang J. Chawuoch
+- Ronald Mutebi: Neural networks and classsical ML model
+- Katabazi Kim: visualisations
+- Garang J. Chawuoch: Data cleaning and visualisations
